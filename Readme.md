@@ -1,5 +1,5 @@
 this project is a test
-for certain aspects
+for various aspects
 of the github API
 and very boring
 at that.
