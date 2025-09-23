@@ -1,4 +1,6 @@
-this project is a test
+# Introduction
+
+## this project is a test
 for various aspects
 of the github API
 and quite interesting indeed.
