@@ -2,3 +2,4 @@ The contents of this file do not matter
 
 new
 x
+x
